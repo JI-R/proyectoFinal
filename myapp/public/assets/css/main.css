@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(104, 189, 247);
+}
+#bar,#main,#line{
+    height: 400px;
+  }
+.gauge{
+    height: 220px;
+  }
